@@ -1,0 +1,40 @@
+# Visual Studio cache
+.vs/
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Rr]elease/
+[Dd]ebug/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Test results
+TestResult*/
+*.TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+
+# Others
+*.pdb
+*.dbmdl
+*.bak
+*.log
