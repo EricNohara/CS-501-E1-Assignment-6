@@ -1,0 +1,56 @@
+# Gradle
+.gradle/
+build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+.gradle/
+local.properties
+
+# Android Studio
+.idea/
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# IntelliJ
+out/
+
+# Generated files
+captures/
+output.json
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+*.log
+
+# Keystore files (sensitive)
+*.jks
+*.keystore
+
+# Google Services (keep your credentials private)
+google-services.json
+GoogleService-Info.plist
+
+# NDK
+obj/
+.externalNativeBuild/
+
+# Jetpack Compose / Kotlin build cache
+.kotlin/
+*.kotlin_module
+
+# Android Profiling
+*.hprof
+
+# MacOS / Windows
+.DS_Store
+Thumbs.db
+
+# Misc
+*.iml
+.idea/
